@@ -8,3 +8,4 @@ Clone the repo. On the terminal, `cd learn-pytorch` to go inside repo, and run `
 * [https://github.com/rasbt/deeplearning-models](https://github.com/rasbt/deeplearning-models)
 * [https://github.com/ritchieng/the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 * [https://pytorch.org/tutorials/beginner/nn_tutorial.html](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
+* [https://github.com/bentrevett/pytorch-image-classification](https://github.com/bentrevett/pytorch-image-classification)
